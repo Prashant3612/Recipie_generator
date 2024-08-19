@@ -8,3 +8,6 @@ Ingredient-Based Recipe Generation: Enter a list of ingredients, and the model w
 Cuisine-Specific Recipes: Specify a cuisine type (e.g., Italian, Indian, Mexican), and the generator will create a recipe in that style.
 Dietary Preferences: Accommodates dietary restrictions such as vegetarian, vegan, gluten-free, etc.
 Customizable Recipes: Allows users to tweak generated recipes by adding or removing ingredients, changing cooking methods, and adjusting portion sizes.
+
+
+Check it out in action here: https://recipie-generator-ch7i.onrender.com
